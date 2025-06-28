@@ -196,7 +196,7 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 📫 Get In Touch!
+## 📫 Let's Connect!
 
 <div align="center">
 
