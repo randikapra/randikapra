@@ -96,12 +96,15 @@ Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis
 - 🗺️ **Geo-Spatial Analytics** - Real-time GPS tracking with route optimization & territory mapping
 - 🤖 **ML-Powered Intelligence** - Sales forecasting, customer segmentation & churn prediction  
 - 📊 **Advanced Dashboards** - Executive, sales, and performance analytics with interactive visualizations
-- 📱 **Cross-Platform** - Web dashboard + mobile app for field sales teams
 - ⚡ **Real-Time Processing** - Kafka streams for live GPS data & instant alerts
 
 **🛠️ Tech Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Redis` `Kafka` `TensorFlow` `Docker` `Kubernetes` `Terraform`
 
 ---
+
+<details>
+<summary><b>🔥 Click to expand more Featured Projects</b></summary>
+
 ### 🎵 Distributed Music Genre Classification Engine
 > **🎼 Big Data ML Pipeline | Nov 2024**
 
@@ -111,7 +114,6 @@ High-performance music genre classification system built on Apache Spark for lar
 
 **🎯 Core Capabilities:**
 - 🔥 **Spark-Native Pipeline** - Distributed training with Random Forest, GBT & Logistic Regression models
-- 🎚️ **Advanced Feature Engineering** - Audio signal processing, spectral analysis & time-domain features
 - ⚡ **Scalable Architecture** - Handles massive datasets with automated model persistence & deployment
 - 📊 **Multi-Model Ensemble** - Comparative analysis across multiple ML algorithms with performance optimization
 - 🔄 **Production Pipeline** - Complete MLOps workflow with model versioning & automated inference
@@ -140,6 +142,7 @@ Comprehensive OCR solution suite for financial and identification document proce
 **🛠️ Tech Stack:** `Python` `OpenCV` `TensorFlow` `Keras` `OCR` `Computer Vision`
 
 ---
+</details>
 
 ## 🛠️ Tech Arsenal
 
