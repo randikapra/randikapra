@@ -71,9 +71,9 @@ Pioneering super-resolution framework for microscopy and nanoscience imaging usi
 
 **🎯 Impact & Results:**
 - ✅ **3.5dB PSNR improvement** over state-of-the-art methods
-- ✅ **20% SSIM increase, 20% LPIPS decrease** on benchmark datasets
-- ✅ **Outperformed EDSR, ESRGAN, SwinIR & HMANet** on scientific imaging tasks
-- ✅ **Novel architecture** with encoder-driven conditioning & semantic loss
+- ✅ **20% SSIM increase, 20% LPIPS decrease** on SEM dataset & benchmark datasets
+- ✅ **Outperformed state-of-the-art models EDSR, ESRGAN, SwinIR & HMANet** on scientific imaging tasks
+- ✅ **Novel architecture** with encoder-driven conditioning & semantic structural loss
 
 **🛠️ Tech Stack:** `Python` `TensorFlow` `Keras` `Computer Vision` `Deep Learning`
 
@@ -101,6 +101,24 @@ Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis
 
 **🛠️ Tech Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Redis` `Kafka` `TensorFlow` `Docker` `Kubernetes` `Terraform`
 
+---
+# 🎵 Distributed Music Genre Classification Engine
+
+## 🎼 Big Data ML Pipeline | Nov 2024
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/music-genre-classifier) [![Models](https://img.shields.io/badge/📁_Models-Download-blue?style=flat)](https://github.com/randikapra/music-genre-classifier/tree/main/models) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+
+High-performance music genre classification system built on Apache Spark for large-scale audio processing and distributed machine learning.
+
+## 🎯 Technical Achievements:
+
+* 🔥 **Spark-Native Pipeline** - Distributed training with Random Forest, GBT & Logistic Regression models
+* 🎚️ **Advanced Feature Engineering** - Audio signal processing, spectral analysis & time-domain features
+* ⚡ **Scalable Architecture** - Handles massive datasets with automated model persistence & deployment
+* 📊 **Multi-Model Ensemble** - Comparative analysis across multiple ML algorithms with performance optimization
+* 🔄 **Production Pipeline** - Complete MLOps workflow with model versioning & automated inference
+
+**🛠️ Tech Stack:** `Python` `Apache Spark` `PySpark MLlib` `Audio Processing` `Distributed Computing`
 ---
 
 ### 👁️ OCR Systems Suite
