@@ -103,8 +103,7 @@ Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis
 ---
 
 <details>
-<summary><b>🔥 Click to expand more Featured Projects</b></summary>
-
+<summary><b>💡 Click to expand more Featured Projects</b></summary>
 ### 🎵 Distributed Music Genre Classification Engine
 > **🎼 Big Data ML Pipeline | Nov 2024**
 
@@ -254,8 +253,7 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 
 <div align="left">
 
-### 🚀 **Open to exciting opportunities in:**
-
+** 🚀 Open to exciting opportunities in:**
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=for-the-badge)
