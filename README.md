@@ -53,16 +53,17 @@ location: Sri Lanka
 
 ---
 
-## 🔥 Featured Projects
+## 💡 Featured Projects
 
-### 🔬 Structure-Informed Super Resolution Technique for Scientific Imaging
-> **Final Year Project | Jun 2024 - Present**
+### 🔬 Structure-Informed Super Resolution for Scientific Imaging
+> **🎓 Final Year Research Project | Jun 2024 - Present**
 
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/CSM-SR-Test3)
 [![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://randikapra.github.io/CSM-SR-Test3/)
-[![Paper](https://img.shields.io/badge/📄_Paper-Read_More-blue?style=flat)](https://your-paper-link.com)
+[![Paper](https://img.shields.io/badge/📄_Paper-Read_More-blue?style=flat)](https://our-paper-link.com)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
 
 </div>
 
@@ -71,7 +72,7 @@ Pioneering super-resolution framework for microscopy and nanoscience imaging usi
 **🎯 Impact & Results:**
 - ✅ **3.5dB PSNR improvement** over state-of-the-art methods
 - ✅ **20% SSIM increase, 20% LPIPS decrease** on benchmark datasets
-- ✅ **Outperformed EDSR, ESRGAN, SwinIR** on scientific imaging tasks
+- ✅ **Outperformed EDSR, ESRGAN, SwinIR & HMANet** on scientific imaging tasks
 - ✅ **Novel architecture** with encoder-driven conditioning & semantic loss
 
 **🛠️ Tech Stack:** `Python` `TensorFlow` `Keras` `Computer Vision` `Deep Learning`
@@ -85,19 +86,20 @@ Pioneering super-resolution framework for microscopy and nanoscience imaging usi
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/Dealer_Dynamics)
 [![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://your-demo-link.com)
-![Status](https://img.shields.io/badge/Status-Production-inprogress?style=flat)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
 
 </div>
 
 Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis, and automated report generation.
 
-**🎯 Key Features:**
-- 📍 **Real-time GPS tracking** with geofencing capabilities
-- 📈 **Advanced analytics** for sales performance optimization  
-- 🔍 **Behavioral pattern recognition** using ML algorithms
-- 📊 **Automated reporting** with actionable insights
+**🎯 Core Capabilities:**
+- 🗺️ **Geo-Spatial Analytics** - Real-time GPS tracking with route optimization & territory mapping
+- 🤖 **ML-Powered Intelligence** - Sales forecasting, customer segmentation & churn prediction  
+- 📊 **Advanced Dashboards** - Executive, sales, and performance analytics with interactive visualizations
+- 📱 **Cross-Platform** - Web dashboard + mobile app for field sales teams
+- ⚡ **Real-Time Processing** - Kafka streams for live GPS data & instant alerts
 
-**🛠️ Tech Stack:** `Python` `MySQL` `Flask` `MS Fabric` `MS Azure` `OpenStreetMap`
+**🛠️ Tech Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Redis` `Kafka` `TensorFlow` `Docker` `Kubernetes` `Terraform`
 
 ---
 
@@ -123,7 +125,7 @@ Comprehensive OCR solution suite for financial and identification document proce
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <details>
 <summary><b>🔥 Click to expand my technical arsenal</b></summary>
