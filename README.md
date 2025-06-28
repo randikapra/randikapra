@@ -252,7 +252,7 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 
 ## 🤝 Let's Collaborate!
 
-<div align="center">
+<div align="left">
 
 ### 🚀 **Open to exciting opportunities in:**
 
@@ -261,7 +261,8 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=for-the-badge)
 ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=for-the-badge)
 ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=for-the-badge)
-
+</div>
+<div align="center">
 <div align="center">
     <h2>
         <a href="https://randikapra.github.io">
