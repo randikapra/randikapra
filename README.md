@@ -8,7 +8,7 @@
 
 **Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist**
 
-> *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
+> *"Transforming complex data into intelligent solutions that drive real-world impact"*
 
 <div align="center">
     <h2>
@@ -32,20 +32,30 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Quick Overview
 
-- 🎓 **B.Sc. Engineering (Honours)** in Data Science & Engineering from University of Moratuwa
-- 💼 **Data Science Engineer Intern** at Brown and Company PLC
-- 🔬 Currently working on **Structure-Informed Super Resolution Technique** for Scientific Imaging (Final Year Research)
-- 🏆 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
-- 🥇 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
-- 📊 Published research: *"A Data-Driven Spatiotemporal Framework for Retail Analytics"* at ADScAI Summit 2025
+```yaml
+name: Randika Prabashwara
+role: Data Science Engineer
+education: B.Sc. Engineering (Honours) - Computer Science & Engineering
+specialization: Data Science & Engineering
+university: University of Moratuwa, Sri Lanka
+research_focus (FYP): Structure-Informed Super Resolution Technique for Scientific Imaging
+status: Final Year Student
+location: Sri Lanka
+```
 
+### 🎯 What I Do
+- 🔬 **Research:** Advanced Computer Vision & Super Resolution Techniques
+- 💼 **Work:** Building scalable data solutions for enterprise clients
+- 🎓 **Study:** Final year at University of Moratuwa (Data Science & Engineering)
+- 🏆 **Compete:** Active Kaggler with proven track record
 
+---
 
 ## 🔥 Featured Projects
 
-### 🔬 Structure-Informed Super Resolution for Scientific Imaging
+### 🔬 Structure-Informed Super Resolution Technique for Scientific Imaging
 > **Final Year Project | Jun 2024 - Present**
 
 <div align="left">
@@ -56,65 +66,79 @@
 
 </div>
 
-Developed state-of-the-art super-resolution framework for microscopy and nanoscience imaging with hierarchical multi-scale learning and adaptive feature fusion.
+Pioneering super-resolution framework for microscopy and nanoscience imaging using hierarchical multi-scale learning and adaptive feature fusion.
 
-**🎯 Key Achievements:**
-- ✅ **3.5dB PSNR improvement, 20% SSIM increase, 20% LPIPS decrease** over SOTA methods
-- ✅ Outperformed EDSR, ESRGAN, SPSR, SwinIR, HMANet on benchmark datasets  
-- ✅ Novel encoder-driven feature conditioning and Semantic Structural Loss function
-- ✅ Successfully applied to scanning electron microscopy (SEM) imaging
+**🎯 Impact & Results:**
+- ✅ **3.5dB PSNR improvement** over state-of-the-art methods
+- ✅ **20% SSIM increase, 20% LPIPS decrease** on benchmark datasets
+- ✅ **Outperformed EDSR, ESRGAN, SwinIR** on scientific imaging tasks
+- ✅ **Novel architecture** with encoder-driven conditioning & semantic loss
 
-**Tech Stack:** `Python` `TensorFlow` `Keras` `Computer Vision` `Deep Learning`
+**🛠️ Tech Stack:** `Python` `TensorFlow` `Keras` `Computer Vision` `Deep Learning`
 
 ---
 
 ### 📊 Geo-Spatial Intelligence Platform
-> **Dec 2024 - Present**
+> **🏢 Enterprise Solution | Dec 2024 - Present**
 
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/Dealer_Dynamics)
 [![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://your-demo-link.com)
+![Status](https://img.shields.io/badge/Status-Production-inprogress?style=flat)
 
 </div>
 
-Comprehensive sales analysis system with GPS tracking and behavioral analysis that generates detailed performance reports and identifies sales trends.
+Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis, and automated report generation.
 
-**Tech Stack:** `Python` `MySQL` `Flask` `MS Fabric` `MS Azure` `OpenStreetMap`
+**🎯 Key Features:**
+- 📍 **Real-time GPS tracking** with geofencing capabilities
+- 📈 **Advanced analytics** for sales performance optimization  
+- 🔍 **Behavioral pattern recognition** using ML algorithms
+- 📊 **Automated reporting** with actionable insights
+
+**🛠️ Tech Stack:** `Python` `MySQL` `Flask` `MS Fabric` `MS Azure` `OpenStreetMap`
 
 ---
 
-### 🔍 OCR Systems Suite
-> **Dec 2023 - May 2025**
+### 👁️ OCR Systems Suite
+> **🤖 AI-Powered Document Processing | Dec 2023 - May 2025**
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_License OCR-181717?style=flat&logo=github)](https://github.com/randikapra/driving-license-ocr)
+[![Cheque OCR](https://img.shields.io/badge/GitHub-Cheque_OCR-181717?style=flat&logo=github)](https://github.com/randikapra/cheque-ocr)
+[![License OCR](https://img.shields.io/badge/GitHub-License_OCR-181717?style=flat&logo=github)](https://github.com/randikapra/driving-license-ocr)
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat)
 
 </div>
 
-- **Cheque OCR:** Automated cheque processing with ML-enhanced text extraction
-- **License OCR:** Driving license validation without segmentation dependencies
+Comprehensive OCR solution suite for financial and identification document processing.
 
-**Tech Stack:** `Python` `OpenCV` `TensorFlow` `Keras` `OCR` `Computer Vision`
+**🎯 Solutions:**
+- 💰 **Cheque OCR:** Automated bank cheque processing with 95%+ accuracy
+- 🆔 **License OCR:** Driving license validation without segmentation dependencies
+- 🔍 **Smart Preprocessing:** ML-enhanced image optimization pipeline
 
+**🛠️ Tech Stack:** `Python` `OpenCV` `TensorFlow` `Keras` `OCR` `Computer Vision`
+
+---
 
 ## 🛠️ Tech Stack
 
 <details>
 <summary><b>🔥 Click to expand my technical arsenal</b></summary>
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**AI/ML:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+**AI/ML & Data Science:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-**Web Dev:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+**Web Development:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![HBase](https://img.shields.io/badge/HBase-FF652F?style=flat&logo=apache&logoColor=white)
 
 **Big Data:** ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
 
-**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </details>
 
@@ -143,23 +167,28 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 
 </div>
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Recognition
 
 <details>
 <summary><b>🎓 Academic & Professional Achievements</b></summary>
 
-### 🏅 Academic Excellence
-- 🥇 **Best Result in Physical Science Stream** - Prince of Wales College, Moratuwa
-- 🏆 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
-- 🎯 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
+### 🎯 **Competition Success**
+[![Kaggle](https://img.shields.io/badge/Kaggle-Top_83%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/randikapra)
 
-### 📚 Certifications
-- 📊 **AWS Academy Graduate** - Data Engineering, ML for NLP, ML Foundation  
-- 🎓 **Machine Learning Specialization** - Stanford University
+**AMP®-Parkinson's Disease Progression Prediction** - Achieved top 83% ranking
+
+### 🏅 **Academic Excellence**
+- 🥇 **Best Result in Physical Science** - Prince of Wales College, Moratuwa
+- 🏆 **Mathematical Olympiad High Distinction** (2011-2017)
+- 🎓 **B.Sc. Engineering (Honours)** - University of Moratuwa
+- 📝 **Published Research** - ADScAI Summit 2025
+
+### 📚 **Professional Certifications**
+- ☁️ **AWS Academy Graduate** - Data Engineering, ML, NLP
+- 🎓 **Machine Learning Specialization** - Stanford University  
 - 🔬 **Operations Research** - National Taiwan University
-- 🧠 **Mathematics for Machine Learning** - DeepLearning.AI
+- 🧠 **Mathematics for ML** - DeepLearning.AI
 - 🏥 **AI for Medical Diagnosis** - DeepLearning.AI
-- 👁️ **Facial Expression Recognition with PyTorch** - Coursera Project Network
 
 </details>
 
@@ -200,18 +229,24 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 📫 Let's Connect!
+## 🤝 Let's Collaborate!
 
 <div align="center">
 
-<h3>📞 Ready to collaborate on exciting projects?</h3>
+### 🚀 **Open to exciting opportunities in:**
+
+![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=for-the-badge)
+![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=for-the-badge)
+![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=for-the-badge)
 
 <div align="center">
     <h2>
         <a href="https://randikapra.github.io">
             <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722" alt="Portfolio">
         </a>
-        <a href="https://linkedin.com/in/randika-prabashwara">
+        <a href="https://www.linkedin.com/in/randika-prabashwara-739bba237/">
             <img src="https://img.shields.io/badge/💼_LinkedIn-randika--prabashwara-0077B5" alt="LinkedIn">
         </a>
         <a href="mailto:randikap.20@cse.mrt.ac.lk">
