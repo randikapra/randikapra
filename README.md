@@ -202,10 +202,22 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 
 <h3>📞 Ready to collaborate on exciting projects?</h3>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://randikapra.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-randika--prabashwara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/randika-prabashwara)
-[![Email](https://img.shields.io/badge/Email-randikap.20@cse.mrt.ac.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randikap.20@cse.mrt.ac.lk)
-[![Phone](https://img.shields.io/badge/Phone-+94775747823-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94775747823)
+<div align="center">
+    <h2>
+        <a href="https://randikapra.github.io">
+            <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722" alt="Portfolio">
+        </a>
+        <a href="https://linkedin.com/in/randika-prabashwara">
+            <img src="https://img.shields.io/badge/💼_LinkedIn-randika--prabashwara-0077B5" alt="LinkedIn">
+        </a>
+        <a href="mailto:randikap.20@cse.mrt.ac.lk">
+            <img src="https://img.shields.io/badge/📧_Email-randikap.20@cse.mrt.ac.lk-D14836" alt="Email">
+        </a>
+        <a href="tel:+94775747823">
+            <img src="https://img.shields.io/badge/📱_Phone-+94775747823-25D366" alt="Phone">
+        </a>
+    </h2>
+</div>
 
 <br>
 
@@ -215,8 +227,6 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views)
-![Stars](https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue)
+<img src="https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"> <img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"> <img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers">
 
 </div>
