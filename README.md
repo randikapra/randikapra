@@ -18,7 +18,7 @@ randika@portfolio:~$ echo "Ready to innovate! 🚀"█
 </td>
 <td width="62%" align="center" valign="middle" style="border: none; padding: 0;">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="80%" alt="Developer working animation">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer working animation">
 
 </td>
 </tr>
@@ -29,7 +29,7 @@ randika@portfolio:~$ echo "Ready to innovate! 🚀"█
         <a href="https://randikapra.github.io">
             <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
         </a>
-        <a href="https://www.linkedin.com/in/randika-prabashwara-739bba237/">
+        <a href="https://www.linkedin.com/in/randika-prabashwara/">
             <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
         </a>
         <a href="mailto:randikap.20@cse.mrt.ac.lk">
@@ -53,7 +53,7 @@ education: B.Sc. Engineering (Honours) - Computer Science & Engineering
 specialization: Data Science & Engineering
 university: University of Moratuwa, Sri Lanka
 research_focus: AI-ML Solutions, Computer Vision, Super Resolution
-status: Final Year Student & Research Assistant
+status: Recent Graduate Student & Research Assistant
 location: Sri Lanka
 experience: 3+ years in ML/AI development
 ```
