@@ -222,27 +222,34 @@ Intelligent cheque processing system with collaborative 3+ member development te
 
 <div align="center">
 
+### 📊 GitHub Statistics
 <table>
 <tr>
 <td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </td>
 <td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=github-readme-stats&cache_seconds=1800" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=randikapra&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" alt="Contribution Graph" />
+### 📈 Contribution Activity
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=randikapra&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&custom_title=Randika%20Prabashwara's%20Contribution%20Graph" alt="Contribution Graph" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=randikapra&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak" />
+### 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=randikapra&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&cache_seconds=1800" alt="GitHub Streak" />
 
 </div>
 
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=randikapra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
 ---
 
 ## 🏆 Achievements & Recognition
