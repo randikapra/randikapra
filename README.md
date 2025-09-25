@@ -245,23 +245,6 @@ Intelligent cheque processing system with collaborative 3+ member development te
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=randikapra&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&cache_seconds=1800" alt="GitHub Streak" />
 
 </div>
-
-### 🔄 Backup Option: Custom Stats Display
-If the APIs continue showing wrong data, here's a manual alternative:
-
-```markdown
-### 📊 My GitHub Stats (Manual - Accurate!)
-- 🔥 **4,878 contributions** in the last year
-- 💻 **Primary Language:** Jupyter Notebook (90.41%)
-- 📝 **Active Repositories:** 3+ with recent commits
-- 🎯 **Focus Areas:** AI/ML Research Projects
-```
-
-### 🏆 Alternative Stats Services
-You can also try these other services:
-- **GitHub Profile Summary Cards**: `github-profile-summary-cards.vercel.app`
-- **GitHub Stats Card**: `awesome-github-stats.azurewebsites.net`
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -269,8 +252,6 @@ You can also try these other services:
 <img src="https://github-profile-trophy.vercel.app/?username=randikapra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
----
 ---
 
 ## 🏆 Achievements & Recognition
