@@ -226,10 +226,22 @@ Intelligent cheque processing system with collaborative 3+ member development te
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+
+**Alternative 1: Try different instance**
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats Alt" />
+
+**Alternative 2: Force refresh**
+<img src="https://github-readme-stats.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=0" alt="GitHub Stats Refresh" />
+
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=github-readme-stats&cache_seconds=1800" alt="Top Languages" />
+
+**Languages (Alternative Instance)**
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Alt" />
+
+**Languages (Force Refresh)**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=0" alt="Top Languages Refresh" />
+
 </td>
 </tr>
 </table>
@@ -242,6 +254,22 @@ Intelligent cheque processing system with collaborative 3+ member development te
 
 </div>
 
+### 🔄 Backup Option: Custom Stats Display
+If the APIs continue showing wrong data, here's a manual alternative:
+
+```markdown
+### 📊 My GitHub Stats (Manual - Accurate!)
+- 🔥 **4,878 contributions** in the last year
+- 💻 **Primary Language:** Jupyter Notebook (90.41%)
+- 📝 **Active Repositories:** 3+ with recent commits
+- 🎯 **Focus Areas:** AI/ML Research Projects
+```
+
+### 🏆 Alternative Stats Services
+You can also try these other services:
+- **GitHub Profile Summary Cards**: `github-profile-summary-cards.vercel.app`
+- **GitHub Stats Card**: `awesome-github-stats.azurewebsites.net`
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -249,6 +277,7 @@ Intelligent cheque processing system with collaborative 3+ member development te
 <img src="https://github-profile-trophy.vercel.app/?username=randikapra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+---
 ---
 ---
 
