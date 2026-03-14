@@ -1,34 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════
-     RANDIKA PRABASHWARA — GitHub Profile README
-     ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+Randika+Prabashwara;Research+Engineer+%40+Expert+Intelligence%E2%84%A2;Computer+Vision+%26+ML+Researcher;Building+AI+that+drives+real-world+impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00C8FF&center=true&vCenter=true&width=860&height=55&lines=Hi+there!+%F0%9F%91%8B+I'm+Randika+Prabashwara;Research+Engineer+%40+Expert+Intelligence%E2%84%A2;Computer+Vision+%26+Deep+Learning+Researcher;Building+AI+that+drives+real-world+impact;2+IEEE+%2F+ADScAI+Publications+%F0%9F%93%84)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://randikapra.github.io">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-0066CC?style=for-the-badge" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/randika-prabashwara/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:randikaprabashwara@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-&nbsp;
-<a href="https://randikapra.github.io/assets/randika_CV_CSE_EI.pdf">
-  <img src="https://img.shields.io/badge/CV-Download-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=randikapra&color=00C8FF&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=8B5CF6" alt="Followers">
-<img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars">
+[![Portfolio](https://img.shields.io/badge/Portfolio-randikapra.github.io-0066CC?style=flat-square&logo=githubpages&logoColor=white)](https://randikapra.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-randika--prabashwara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randika-prabashwara/)
+[![Email](https://img.shields.io/badge/Email-randikaprabashwara%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:randikaprabashwara@gmail.com)
 
 </div>
 
@@ -353,10 +331,18 @@ mindmap
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_randikapra.github.io-Visit_Portfolio-0066CC?style=for-the-badge)](https://randikapra.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_randikapra.github.io-Visit_Portfolio-0066CC?style=flat-square)](https://randikapra.github.io)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randika-prabashwara/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randika-prabashwara/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randikaprabashwara@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:randikaprabashwara@gmail.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=randikapra&color=00C8FF&style=flat-square&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/randikapra?style=flat-square&logo=github&label=Followers&color=8B5CF6)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Stars&color=F59E0B)
 
 </div>
