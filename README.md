@@ -10,6 +10,26 @@
 
 </div>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="40%" valign="middle" align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=800&color=00C8FF&center=false&vCenter=true&multiline=true&width=340&height=220&lines=📊+Data+Science+Engineer;🔬+Computer+Vision+Researcher;🤖+Generative+AI+Developer;⚡+MLOps+%26+Production+ML;🧠+Deep+Learning+Architect;🌍+Building+AI+for+Real+Impact&repeat=true)](https://git.io/typing-svg)
+
+```bash
+randika@ai:~$ echo "Let's build something!" 🚀
+```
+> *"Transforming complex data into intelligent solutions."*
+
+</td>
+<td width="60%" align="center" valign="middle">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer working">
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧬 About Me
