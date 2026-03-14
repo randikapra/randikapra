@@ -1,220 +1,266 @@
+<!-- ═══════════════════════════════════════════════════════════
+     RANDIKA PRABASHWARA — GitHub Profile README
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=🌟+Hi+there!+👋+I'm+Randika+Prabashwara)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+Randika+Prabashwara;Research+Engineer+%40+Expert+Intelligence%E2%84%A2;Computer+Vision+%26+ML+Researcher;Building+AI+that+drives+real-world+impact)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://randikapra.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-0066CC?style=for-the-badge" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/randika-prabashwara/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:randikaprabashwara@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://randikapra.github.io/assets/randika_CV_CSE_EI.pdf">
+  <img src="https://img.shields.io/badge/CV-Download-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=randikapra&color=00C8FF&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=8B5CF6" alt="Followers">
+<img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars">
+
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td width="38%" valign="middle" align="left" style="border: none; padding: 0;">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1500&pause=1000&color=00F5A0&center=false&vCenter=true&multiline=true&width=350&height=200&lines=📊+Data+Science+Engineer;🔥+ML+Enthusiast;⚗️+Research+Innovator;👁️+Computer+Vision+Specialist;🚀+Building+AI+Solutions;🌍+for+Real+World+Problems&repeat=true)](https://git.io/typing-svg)
+## 🧬 About Me
 
-
-```bash
-randika@portfolio:~$ echo "Ready to innovate! 🚀"█
+```yaml
+name:          Randika Prabashwara
+current_role:  Research Engineer @ Expert Intelligence™  (Nov 2025 – Present)
+prev_role:     Research Assistant @ University of Moratuwa (Jul 2025 – Feb 2026)
+education:     B.Sc. Engineering (Honours) — Computer Science & Engineering
+               University of Moratuwa, Sri Lanka  |  Specialization: Data Science & Engineering
+focus:         Computer Vision · Generative AI · MLOps · Production ML Systems
+publications:  2  (IEEE ICITR 2025  +  ADScAI 2025)
+location:      Sri Lanka / Remote
+status:        Open to research collaborations & exciting ML opportunities
 ```
-> <sub>*"Transforming complex data into intelligent solutions that drive real-world impact"*</sub>
+
+### What I'm working on
+
+- 🔬 **Research** — Multi-scale super-resolution with GANs, PINNs & diffusion-based probabilistic models
+- 🏭 **Industry** — Production AI systems at Expert Intelligence™ (international, remote)
+- 📝 **Publishing** — GSM-SR paper in IEEE ICITR 2025; DSFRA paper at ADScAI 2025
+- 🧠 **Exploring** — Multi-modal learning, RAG systems, financial AI
+
+---
+
+## 📰 Publications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📄 IEEE ICITR 2025**
+
+**GSM-SR: Generalized Structure-Informed Multi-Scale GAN for Efficient Image Super-Resolution**
+
+*Gayani Wickramarathna, Oshadi Perera, **Randika Prabashwara**, Uthayasanker Thayasivam*
+
+2025 10th International Conference on Information Technology Research · Paper ID: ICITR2025-145
+
+![IEEE](https://img.shields.io/badge/Publisher-IEEE-00629B?style=flat&logo=ieee&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Published-10B981?style=flat)
 
 </td>
-<td width="62%" align="center" valign="middle" style="border: none; padding: 0;">
+<td width="50%" valign="top">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" alt="Developer working animation">
+**📄 ADScAI 2025**
+
+**A Data-Driven Spatiotemporal Framework for Retail Analytics**
+
+***Randika Prabashwara**, H.K. Gayani V.L. Wickramarathna, Uthayasanker Thayasivam*
+
+Applied Data Science & Artificial Intelligence Symposium 2025 · University of Moratuwa Library
+
+[![Proceedings](https://img.shields.io/badge/Proceedings-UoM_Library-6366F1?style=flat)](https://dl.lib.uom.lk/handle/123/24385)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github)](https://github.com/randikapra/Dealer_Dynamics)
+![Status](https://img.shields.io/badge/Status-Published-10B981?style=flat)
+
+**Key results:** 86.5% prediction accuracy · 20.3% delivery cost reduction
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-    <h2>
-        <a href="https://randikapra.github.io">
-            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
-        </a>
-        <a href="https://www.linkedin.com/in/randika-prabashwara/">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
-        </a>
-        <a href="mailto:randikap.20@cse.mrt.ac.lk">
-            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
-        </a>
-      <a href="https://github.com/randikapra">
-            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
-        <a href="tel:+94775747823">
-            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
-        </a>
-        </a>
-    </h2>
-</div>
-
-## 🚀 Quick Overview
-
-```yaml
-name: M. A. Randika Prabashwara
-role: Data Science Engineer & Research Assistant
-education: B.Sc. Engineering (Honours) - Computer Science & Engineering
-specialization: Data Science & Engineering
-university: University of Moratuwa, Sri Lanka
-research_focus: AI-ML Solutions, Computer Vision, Super Resolution
-status: Recent Graduate Student & Research Assistant
-location: Sri Lanka
-experience: 3+ years in ML/AI development
-```
-
-### 🎯 What I Do
-- 🔬 **Research:** Advanced Computer Vision, Super Resolution & AI-ML Solutions
-- 💼 **Work:** Building enterprise-grade data solutions and intelligent platforms
-- 🎓 **Study:** Final year at University of Moratuwa (Data Science & Engineering)
-- 🏆 **Achieve:** Top 83% Kaggler with proven ML competition track record
-- 📚 **Mentor:** Teaching Assistant supporting 100+ students in programming & compiler design
-
 ---
 
-## 💡 Featured Projects
+## 🚀 Featured Projects
 
-### 🔬 CSM-SR: Conditional Structure-Informed Super Resolution GAN
-> **🎓 Final Year Research Project | Jun 2024 - Present**
-
-<div align="left">
+### 🔬 CSM-SR — Conditional Structure-Informed Multi-Scale Super-Resolution GAN
+> *Final Year Research Project · Jun 2024 – Oct 2025 · Team of 3 · Principal Researcher*
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/CSM-SR-Test3)
-[![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://randikapra.github.io/CSM-SR-Test3/)
-[![Paper](https://img.shields.io/badge/📄_Paper-ADScAI_2025-blue?style=flat)](https://our-paper-link.com)
-![Status](https://img.shields.io/badge/Status-Published-success?style=flat)
+[![Demo](https://img.shields.io/badge/Demo-Live-10B981?style=flat)](https://randikapra.github.io/CSM-SR-Test3/)
+![Status](https://img.shields.io/badge/Status-Peer_Review-F59E0B?style=flat)
+![Completion](https://img.shields.io/badge/Completion-90%25-00C8FF?style=flat)
 
-</div>
+Pioneering super-resolution framework for microscopy and nanoscience imaging. Novel architecture integrating encoder-based feature conditioning, multi-scale discriminator design, and a custom **Semantic Structural Loss (SSL)** function.
 
-Revolutionary super-resolution framework for scientific imaging using conditional structure-informed multi-scale learning with advanced encoder-based feature integration and custom Semantic Structural Loss (SSL).
+| Metric | Result | Baseline Improvement |
+|--------|--------|---------------------|
+| PSNR (Set5/Set14/BSD100) | State-of-the-art | **+3.5 dB** |
+| SSIM | 0.978 (SEM dataset) | **+20%** |
+| LPIPS | 0.178 (SEM dataset) | **−20%** |
+| Outperforms | EDSR, ESRGAN, SwinIR, HMANet | ✅ All benchmarks |
 
-**🎯 Impact & Results:**
-- ✅ **3.5dB PSNR improvement, 20% SSIM increase, 20% LPIPS decrease** over state-of-the-art methods
-- ✅ **Outperformed EDSR, ESRGAN, SwinIR & HMANet** on SEM dataset & benchmark datasets (Set5, Set14, BSD100)
-- ✅ **Novel architecture** with encoder-driven conditioning & three-stage pipeline optimization
-- ✅ **Published at ADScAI Summit 2025** - Applied Data Science & Artificial Intelligence
-
-**🛠️ Tech Stack:** `Python` `TensorFlow` `Keras` `PyTorch` `CUDA` `OpenCV` `Computer Vision` `Deep Learning`
-
----
-
-### 📊 GeoSpatial Intelligence Platform (Enterprise Solution)
-> **🏢 Data Science Engineer Intern | Dec 2023 - Jun 2024**
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Private_Repo-181717?style=flat&logo=github)](https://github.com/randikapra)
-[![Demo](https://img.shields.io/badge/🚀_Demo-Enterprise-green?style=flat)](https://your-demo-link.com)
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat)
-
-</div>
-
-Enterprise-grade sales analytics platform with real-time GPS tracking, behavioral analysis, and automated report generation serving field teams across Sri Lanka.
-
-**🎯 Core Capabilities:**
-- 🗺️ **Real-Time GPS Tracking** - Live location monitoring with territory coverage analysis & route optimization
-- 🤖 **ML-Powered Intelligence** - Sales forecasting, performance scorecards & opportunity identification  
-- 📊 **Comprehensive Dashboards** - Executive analytics with dynamic visualization & automated reporting
-- ⚡ **35% Efficiency Improvement** - Reduced operational costs through predictive analytics integration
-
-**🛠️ Tech Stack:** `Python` `FastAPI` `Apache Kafka` `MySQL` `Redis` `React` `Docker` `AWS` `Machine Learning`
+`Python` `PyTorch` `TensorFlow` `Keras` `CUDA` `OpenCV` `Custom GAN`
 
 ---
 
-### 🆔 Advanced OCR System for Sri Lankan Driving Licenses
-> **🤖 Computer Vision Solution | Apr 2025 - May 2025**
+### 📊 GeoSales Intelligence Platform — Enterprise ML System
+> *Brown & Company PLC · Dec 2024 – Oct 2025 · Lead Data Scientist*
 
-<div align="left">
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/randikapra)
+![Status](https://img.shields.io/badge/Status-Production-10B981?style=flat)
+![Publication](https://img.shields.io/badge/📄_Published-ADScAI_2025-6366F1?style=flat)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/driving-license-ocr)
-[![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://your-demo-link.com)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+Enterprise-grade sales analytics platform translating a vague requirement ("better field visibility") into a concrete ML system: GPS-based route reconstruction, geospatial territory clustering (DBSCAN/OPTICS), and predictive opportunity scoring.
 
-</div>
+| Impact | Value |
+|--------|-------|
+| Sales Efficiency | **+35%** |
+| Operational Cost Reduction | **−40%** |
+| API Latency | **< 500ms** |
+| Prediction Accuracy | **88%** in production |
 
-Revolutionary multi-modal OCR pipeline combining TrOCR, EasyOCR, and Enhanced Tesseract with intelligent multi-factor orientation detection for Sri Lankan driving license processing.
-
-**🎯 Key Achievements:**
-- ✅ **96% accuracy in vehicle class extraction, 92% accuracy in data extraction**
-- ✅ **1.8 seconds average processing time** with 98% orientation detection success
-- ✅ **Adaptive image enhancement** - No segmentation dependencies, handles complex layouts
-- ✅ **Production-ready pipeline** - Deployed with comprehensive error handling
-
-**🛠️ Tech Stack:** `TrOCR` `EasyOCR` `PyTorch` `OpenCV` `Transformers` `CUDA` `Computer Vision`
+`Python` `FastAPI` `Apache Kafka` `PostgreSQL` `Redis` `Docker` `Azure` `React`
 
 ---
+
+### 🧠 MedAssist AI — Multi-Model RAG Medical Conversational System
+> *Independent Research · Aug 2025 – Present · Lead Developer*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra)
+![Status](https://img.shields.io/badge/Status-In_Progress-00C8FF?style=flat)
+
+RAG-powered medical chatbot with multi-model LLM consensus routing (Llama, OpenAI, Gemini, Claude), Pinecone vector database for semantic search, and persistent conversation memory.
+
+- **80% query classification accuracy** across 4 integrated LLM providers
+- Semantic search over medical knowledge base with source attribution per response
+- Intelligent routing: model selected per query type (diagnostic / informational / drug interaction)
+
+`LangChain` `FastAPI` `PyTorch` `Pinecone` `OpenAI API` `Docker` `CUDA`
 
 <details>
-<summary><b>💡 Click to expand more Featured Projects</b></summary>
+<summary><b>📂 View all 9 projects</b></summary>
+
+<br>
+
+### 🆔 Advanced Sri Lankan Driving License OCR System
+> *Apr 2025 – May 2025 · Independent*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra)
+![Status](https://img.shields.io/badge/Status-Complete-10B981?style=flat)
+
+Multi-model OCR pipeline combining TrOCR, EasyOCR, and Enhanced Tesseract with 4-factor orientation detection, overcoming the 60–70% accuracy ceiling of existing solutions.
+
+**Results:** 96% vehicle class accuracy · 92% date extraction · 98% orientation detection · 1.8s avg processing
+
+`TrOCR` `EasyOCR` `PyTorch` `OpenCV` `Transformers` `CUDA`
+
+---
+
+### 💰 Cheque OCR System — Banking Automation
+> *Brown & Company PLC · Dec 2023 – Jun 2024 · Team of 3*
+
+3-layer OCR pipeline using Google Cloud Vision API, Azure Computer Vision API, and custom vision models for Sri Lankan bank cheque processing. Eliminated manual data entry bottlenecks with mobile banking integration.
+
+`Google Cloud Vision` `Azure CV` `Python` `OpenCV` `FastAPI`
+
+---
+
+### 📋 Automated Report Generation Pipeline
+> *Brown & Company PLC · Dec 2023 – Jun 2024 · Independent*
+
+Fully automated data pipeline replacing manual Excel-based weekly reporting. Scheduled extraction from PostgreSQL, automated EDA with anomaly flagging, dynamic visualization, and templated report assembly delivered to stakeholders automatically.
+
+`Python` `pandas` `Matplotlib` `Plotly` `PostgreSQL` `Jinja2` `Azure`
+
+---
+
+### 🎓 RPAL Automated Assessment System
+> *University of Moratuwa · Jan 2025 – Jun 2025 · Teaching Assistant*
+
+Automated evaluation engine for RPAL programming assignments. Compiles, executes, and scores 100+ student submissions against comprehensive test suites with structured per-student feedback generation.
+
+**Impact:** 70% reduction in grading time · 100% consistent scoring
+
+`Python` `Compiler Design` `Automated Testing` `AST Analysis`
+
+---
 
 ### 🎵 Distributed Music Genre Classification Engine
-> **🎼 Big Data ML Pipeline | Mar 2025 - Jun 2025**
+> *Mar 2025 – Jun 2025 · Big Data Project*
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/music-genre-classifier) [![Demo](https://img.shields.io/badge/🚀_Demo-Live_Demo-green?style=flat)](https://your-demo-link.com) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/music-genre-classifier)
 
-Scalable machine learning pipeline built on Apache Spark for distributed music genre classification with ensemble approach combining Random Forest, Gradient Boosting Trees, and Logistic Regression.
+Fully Spark-native distributed ML pipeline for music genre classification. Ensemble of Random Forest, Gradient Boosting Trees, and Logistic Regression with parallel feature extraction across distributed clusters.
 
-**🎯 Core Capabilities:**
-- 🔥 **Distributed Training** - Implemented scalable feature extraction and distributed clusters
-- ⚡ **Ensemble Learning** - Multi-algorithm approach with automated model selection
-- 📊 **Production Pipeline** - Complete MLOps workflow with model persistence & deployment
-- 🎯 **High Performance** - Optimized for large-scale audio processing workloads
-
-**🛠️ Tech Stack:** `Python` `Apache Spark` `PySpark MLlib` `Audio Processing` `Distributed Computing`
-
----
-
-### 🚗 SafePathAI: Uncertainty-Aware Trajectory Prediction
-> **🤖 Autonomous Driving Research | Jan 2025 - Jun 2025**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/safepath-ai) ![Status](https://img.shields.io/badge/Status-Research-yellow?style=flat)
-
-Hybrid framework combining transformer-based neural networks with Bayesian filtering for uncertainty quantification and safety mechanisms in autonomous driving scenarios.
-
-**🎯 Innovation Focus:**
-- 🧠 **Hybrid Architecture** - Neural networks with physics-informed constraints
-- 🎯 **Uncertainty Quantification** - Bayesian filtering for safety-critical predictions
-- 🚗 **Real-World Application** - Designed for autonomous driving trajectory planning
-- 📊 **Performance Metrics** - Enhanced prediction accuracy with safety guarantees
-
-**🛠️ Tech Stack:** `PyTorch` `TensorFlow` `Transformers` `FMLC` `FilterPy` `CARLA`
-
----
-
-### 💰 Automated Cheque OCR System
-> **🏦 Financial Document Processing | Previous Project**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/cheque-ocr) ![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat)
-
-Intelligent cheque processing system with collaborative 3+ member development team eliminating manual data entry bottlenecks and integrating with Google Cloud Vision API and Azure Computer Vision API.
-
-**🎯 Key Features:**
-- 💡 **Automated Processing** - End-to-end cheque data extraction pipeline
-- 🔗 **Multi-API Integration** - Google Cloud Vision & Azure Computer Vision
-- 👥 **Team Collaboration** - 3+ member development with custom vision models
-- 📱 **Mobile Integration** - Seamless mobile application integration
-
-**🛠️ Tech Stack:** `Python` `Google Cloud Vision API` `Azure Computer Vision API` `OpenCV` `Mobile Integration`
+`Apache Spark` `PySpark MLlib` `MLflow` `Python` `Distributed Computing`
 
 </details>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Arsenal
 
-<details>
-<summary><b>🔥 Click to expand my technical arsenal</b></summary>
+<div align="center">
 
-**Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Core Languages**
 
-**AI/ML & Data Science:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4+_yrs-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3+_yrs-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Web Development:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**ML & Deep Learning**
 
-**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![HBase](https://img.shields.io/badge/HBase-FF652F?style=flat&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
-**Big Data & Streaming:** ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+**MLOps & Infrastructure**
 
-**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**Tools & Others:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-FF6B6B?style=flat) ![GraphDB](https://img.shields.io/badge/GraphDB-4ECDC4?style=flat)
+**Cloud Platforms**
 
-</details>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3+_yrs-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat)
+
+</div>
 
 ---
 
@@ -222,142 +268,95 @@ Intelligent cheque processing system with collaborative 3+ member development te
 
 <div align="center">
 
-### 📊 GitHub Statistics
 <table>
 <tr>
 <td width="50%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats Alt" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=randikapra&show_icons=true&theme=github_dark&hide_border=true&bg_color=060B18&title_color=00C8FF&text_color=8892A4&icon_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=github_dark&hide_border=true&bg_color=060B18&title_color=00C8FF&text_color=8892A4&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Alt" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=randikapra&theme=github-compact&hide_border=true&bg_color=060B18&color=00C8FF&line=8B5CF6&point=10B981&area=true&area_color=00C8FF&custom_title=Contribution+Graph" alt="Contribution Graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=randikapra&theme=github-dark-blue&hide_border=true&background=060B18&stroke=00C8FF&ring=8B5CF6&fire=10B981&currStreakLabel=8892A4&sideLabels=8892A4&currStreakNum=00C8FF&sideNums=00C8FF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=randikapra&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎖️ Achievements & Credentials
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏅 Academic**
+- 🥇 Island Rank **29** — G.C.E. A/L Physical Science Stream (Z: 2.1848)
+- 🏆 Sri Lankan Mathematical Olympiad — **High Distinction** (2011–2017)
+- 🎓 Best Result in Physical Science Stream — Prince of Wales College
+- 📊 Kaggle — **Top 83%** · AMP® Parkinson's Disease Prediction
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+- ☁️ **AWS** — Data Engineering · ML for NLP · ML Foundations
+- 🟢 **NVIDIA DLI** — Fundamentals of Deep Learning
+- 🎓 **Stanford** (Coursera) — Machine Learning Specialization
+- 🧮 **DeepLearning.AI** — Mathematics for ML & Data Science
 
 </td>
 </tr>
 </table>
 
-### 📈 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=randikapra&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&custom_title=Randika%20Prabashwara's%20Contribution%20Graph" alt="Contribution Graph" />
-
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=randikapra&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&cache_seconds=1800" alt="GitHub Streak" />
-
-</div>
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=randikapra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<details>
-<summary><b>🎓 Academic & Professional Achievements</b></summary>
-
-### 🎯 **Competition Success**
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top_83%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/randikapra)
-
-**AMP®-Parkinson's Disease Progression Prediction** - Achieved top 83% ranking among global participants
-
-### 🏅 **Academic Excellence**
-- 🥇 **Best Result in Physical Science Stream** - Prince of Wales College, Moratuwa
-- 🏆 **Mathematical Olympiad High Distinction** (2011-2017) - Consistent high performance
-- 🎓 **B.Sc. Engineering (Honours)** - University of Moratuwa (Final Year)
-- 📝 **Published Research** - ADScAI Summit 2025 (Applied Data Science & Artificial Intelligence)
-- 🏅 **Island Rank 29** - G.C.E Advanced Level (Combined Mathematics, Physics, Chemistry)
-
-### 📚 **Professional Certifications**
-- ☁️ **AWS Academy Graduate** - Data Engineering, Machine Learning, NLP
-- 🎓 **Machine Learning Specialization** - Stanford University (Coursera)
-- 🔬 **Operations Research** - National Taiwan University
-- 🧠 **Mathematics for Machine Learning & Data Science** - DeepLearning.AI
-- 🏥 **AI for Medical Diagnosis** - DeepLearning.AI
-
-### 💼 **Professional Experience**
-- 🔬 **Research Assistant** - University of Moratuwa (Jul 2025 - Present)
-- 👨‍🏫 **Teaching Assistant** - University of Moratuwa (Jan 2025 - Jun 2025)
-- 💼 **Data Science Engineer Intern** - Pinnacle Company Ltd (Dec 2023 - Jun 2024)
-
-</details>
-
----
-
-## 🌱 Currently Exploring
-
-<div align="center">
+## 🌐 Current Focus
 
 ```mermaid
 mindmap
-  root((Research Focus))
-    Advanced Computer Vision
-      Super Resolution
+  root((2025–2026))
+    Research Engineer
+      Expert Intelligence™
+      Production AI Systems
+      International Collaboration
+    Computer Vision Research
+      Multi-Scale Super Resolution
+      GANs + PINNs + Diffusion Models
       Scientific Imaging
-      Structure-Informed Learning
-    Deep Learning Architectures
-      Transformer Networks
-      Generative Adversarial Networks
-      Multi-Scale Learning
-    AI for Autonomous Systems
-      Trajectory Prediction
-      Uncertainty Quantification
-      Safety-Critical AI
-    Enterprise Solutions
-      Real-time Analytics
-      Geospatial Intelligence
-      MLOps & Deployment
-    Research Publications
-      Academic Writing
-      Conference Presentations
+    Generative AI
+      RAG Systems
+      Multi-Model LLM Integration
+      Medical AI Applications
+    Publications
+      IEEE ICITR 2025
+      ADScAI 2025
+      Next paper in progress
 ```
 
-</div>
-
 ---
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       15 hrs 45 mins  ████████████████████░   85.2%
-JavaScript    1 hr 30 mins   ██░░░░░░░░░░░░░░░░░░░    8.1%
-SQL           45 mins        █░░░░░░░░░░░░░░░░░░░░    4.1%
-CUDA          25 mins        ▒░░░░░░░░░░░░░░░░░░░░    2.3%
-Others        5 mins         ░░░░░░░░░░░░░░░░░░░░░    0.3%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🤝 Let's Collaborate!
-
-**🚀 Open to exciting opportunities in:** ![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=flat) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=flat) ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=flat)
-
-*"Seeking opportunities to apply advanced technical and analytical skills to address complex real-world problems and deliver impactful AI-driven solutions for industry transformation."*
 
 <div align="center">
-    <h2>
-        <a href="https://randikapra.github.io">
-            <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722" alt="Portfolio">
-        </a>
-        <a href="https://www.linkedin.com/in/randika-prabashwara-739bba237/">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-randika--prabashwara-0077B5" alt="LinkedIn">
-        </a>
-        <a href="mailto:randikap.20@cse.mrt.ac.lk">
-            <img src="https://img.shields.io/badge/📧_Email-randikap.20@cse.mrt.ac.lk-D14836" alt="Email">
-        </a>
-        <a href="tel:+94775747823">
-            <img src="https://img.shields.io/badge/📱_Phone-+94775747823-25D366" alt="Phone">
-        </a>
-    </h2>
-</div>
+
+*"Transforming complex data into intelligent solutions that drive real-world impact."*
 
 <br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"> <img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"> <img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers">
+[![Portfolio](https://img.shields.io/badge/🌐_randikapra.github.io-Visit_Portfolio-0066CC?style=for-the-badge)](https://randikapra.github.io)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randika-prabashwara/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randikaprabashwara@gmail.com)
+
 </div>
