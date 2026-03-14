@@ -322,26 +322,50 @@ Fully Spark-native distributed ML pipeline for music genre classification. Ensem
 
 ## 🌐 Current Focus
 
-```mermaid
-mindmap
-  root((2025–2026))
-    Research Engineer
-      Expert Intelligence™
-      Production AI Systems
-      International Collaboration
-    Computer Vision Research
-      Multi-Scale Super Resolution
-      GANs + PINNs + Diffusion Models
-      Scientific Imaging
-    Generative AI
-      RAG Systems
-      Multi-Model LLM Integration
-      Medical AI Applications
-    Publications
-      IEEE ICITR 2025
-      ADScAI 2025
-      Next paper in progress
-```
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+**🏭 Research Engineer**
+`Expert Intelligence™`
+
+![Production AI](https://img.shields.io/badge/Production_AI-Systems-10B981?style=flat-square)
+![Remote](https://img.shields.io/badge/International-Remote-6366F1?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Cross--Functional-Teams-0A66C2?style=flat-square)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🔬 Computer Vision Research**
+`Super Resolution`
+
+![GANs](https://img.shields.io/badge/GANs-Architecture-EC4899?style=flat-square)
+![PINNs](https://img.shields.io/badge/PINNs-Physics_Informed-8B5CF6?style=flat-square)
+![Diffusion](https://img.shields.io/badge/Diffusion-Models-F59E0B?style=flat-square)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🤖 Generative AI**
+`LLM & RAG Systems`
+
+![RAG](https://img.shields.io/badge/RAG-Systems-00C8FF?style=flat-square)
+![Multi-Model](https://img.shields.io/badge/Multi--Model-LLM-EE4C2C?style=flat-square)
+![Medical AI](https://img.shields.io/badge/Medical-AI-10B981?style=flat-square)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**📝 Publications**
+`2025`
+
+![IEEE](https://img.shields.io/badge/IEEE-ICITR_2025-00629B?style=flat-square&logo=ieee)
+![ADScAI](https://img.shields.io/badge/ADScAI-2025-6366F1?style=flat-square)
+![Next](https://img.shields.io/badge/Next_Paper-In_Progress-F59E0B?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
